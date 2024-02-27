@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/NotoSansThai-VariableFont_wdth,wght.ttf",
+      "sha1": "8c7bfb4f9657dfa2f7fa3554aa9c9cbe18b9b0fc"
+    },
+    {
+      "path": "assets/fonts/Oswald-VariableFont_wght.ttf",
+      "sha1": "83708d011b4d9bab0f4e275cf22b588558037a79"
+    },
+    {
+      "path": "assets/fonts/Righteous-Regular.ttf",
+      "sha1": "3129e2b47e224dec082c4169b396b1fa27a95749"
+    }
+  ]
+}
